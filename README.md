@@ -1,32 +1,40 @@
+# Call Centre Performance Report
 
-# Call Centre Performance Dashboard (Excel)
+## Project Overview
 
-## Project Overview 
-Developed an interactive Excel dashboard to analyze call centre performance and sales metrics. 
-The dashboard provides insights into representative performance, customer behavior, and monthly trends.
+  Developed an interactive excel dashboard to analyze call centre performance and sales metrics.
+The dashboard provides insights into representative performance,customer behaviour and monthly trend.
 
-## Key Metrics Analyzed 
+## Key Metrics Analyzed
 - Total Calls
 - Total Sales Amount
-- Representative-wise Calls & Sales
+- Representative wise Calls and Sales
 - Average Customer Ratings
-- Month-wise Call Trend
-- Weekday-wise Total Calls
-- City-wise Male & Female Sales 
-- Customer-wise Total Sales
+- Month-wise call trend
+- Weekday-wise total calls
+- City-wise Male and Female Sales
+- Customer-wise Total sales
 
-## Tools & Features Used 
+## Tools and Features Used
+
 - Pivot Tables
 - Pivot Charts
-- Slicers
-- Conditional Formatting
+- Conditional Formating
 - Data Cleaning
-- Trend Analysis
+- Trend Analyse
 
 ## Business Insights
+
 - Identified top-performing representatives based on sales and calls
-- Analyzed peak call months and high-performing weekdays
-- Compared male vs female customer purchase behavior city-wise
-- Tracked customer-wise revenue contribution
+- Identifed peak call months and high-performing weekdays
+- Compared male vs female customer purchase behaviour city-wise
+- Tracked customer wise revenue contribution
+
+
+
+
+
+
+
 
 
